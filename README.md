@@ -48,210 +48,208 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
   # Setting up environment ([details](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment))
 
-  
+- #### [Z Shell](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#z-shell)
 
-  - #### [Z Shell](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#z-shell)
+- #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#editor)
 
-  - #### [Editor](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#editor)
+  - [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
 
-    - [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
+  - [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
 
-    - [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
+- #### [Terminal and Commands](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#terminal-and-commands)
 
-  - #### [Terminal and Commands](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#terminal-and-commands)
+- #### [Version Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#version-managers)
 
-  - #### [Version Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#version-managers)
+  - Node Version Manager
 
-    - Node Version Manager
+- #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
 
-  - #### [Package Managers](https://fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
+  - [yarn](https://yarnpkg.com/lang/en/)
 
-    - [yarn](https://yarnpkg.com/lang/en/)
+  - [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
-    - [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
+  - Homebrew (macOS)
 
-    - Homebrew (macOS)
+- #### [Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
 
-  - #### [Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
+- # Version Control
 
-  - # Version Control
+  - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 
-    - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
+    - What are the advantages of Distributed over centralized.
 
-      - What are the advantages of Distributed over centralized.
+    - Why distributed is preferred versus Centralized.
 
-      - Why distributed is preferred versus Centralized.
+  - ### Git and GitHub ( Know the difference )
 
-    - ### Git and GitHub ( Know the difference )
+    - Various other git services providers
 
-      - Various other git services providers
+  - ### Git
 
-    - ### Git
+    - #### Repositories (forking and cloning and the difference between them)
 
-      - #### Repositories (forking and cloning and the difference between them)
+      - How to create
 
-        - How to create
+      - What are README files
 
-        - What are README files
+      - How to read other people's repositories
 
-        - How to read other people's repositories
+    - #### gitignore files
 
-      - #### gitignore files
+      - Why it is required?
 
-        - Why it is required?
+      - What are important things to put in it?
 
-        - What are important things to put in it?
+        - Logs
 
-          - Logs
+        - Compiled Binaries
 
-          - Compiled Binaries
+        - Coverage Reports
 
-          - Coverage Reports
+        - Intermediate Files
 
-          - Intermediate Files
+    - #### Commits
 
-      - #### Commits
+      - What is a commit
 
-        - What is a commit
+      - Why commit often and in a logically coherent units
 
-        - Why commit often and in a logically coherent units
+      - Difference between staging area, index area, and, working directory commit
 
-        - Difference between staging area, index area, and, working directory commit
+      - Conventions to follow during a commit
 
-        - Conventions to follow during a commit
+      - Searching through a commit
 
-        - Searching through a commit
+    - #### Branching and Merging
 
-      - #### Branching and Merging
+      - Branch as an abstraction unit
 
-        - Branch as an abstraction unit
+      - Why branching is required?
 
-        - Why branching is required?
+      - How it handles features and allows multiple people to work on the same repo without collisions.
 
-        - How it handles features and allows multiple people to work on the same repo without collisions.
+      - Checkout a branch
 
-        - Checkout a branch
+      - Conventions to follow for a branch name
 
-        - Conventions to follow for a branch name
+      - Why `master` exists
 
-        - Why `master` exists
+      - HEAD and branch references
 
-        - HEAD and branch references
+    - #### [Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 
-      - #### [Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+      - What is a reset?
 
-        - What is a reset?
+      - Difference between hard, soft, and mixed reset.
 
-        - Difference between hard, soft, and mixed reset.
+      - When to do reset?
 
-        - When to do reset?
+    - #### [Stashing](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
 
-      - #### [Stashing](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
+      - Why stashing is required?
 
-        - Why stashing is required?
+      - How to keep stashes of files
 
-        - How to keep stashes of files
+      - How to pop them back
 
-        - How to pop them back
+    - #### Issues and Pull requests (Github)
 
-      - #### Issues and Pull requests (Github)
+      - What is an issue?
 
-        - What is an issue?
+      - Atomic PRs
 
-        - Atomic PRs
+      - How to create an issue
 
-        - How to create an issue
+      - How to assign it to a member?
 
-        - How to assign it to a member?
+      - How to create a Pull Request referencing that issue
 
-        - How to create a Pull Request referencing that issue
+      - How to review a PR
 
-        - How to review a PR
+    - #### Git commands ( with common flags )
 
-      - #### Git commands ( with common flags )
+      - init
 
-        - init
+      - clone
 
-        - clone
+      - add
 
-        - add
+      - commit
 
-        - commit
+      - remote
 
-        - remote
+      - pull ( vs fetch and its difference)
 
-        - pull ( vs fetch and its difference)
+      - push
 
-        - push
+      - merge
 
-        - merge
+      - branch
 
-        - branch
+      - checkout
 
-        - checkout
+      - status
 
-        - status
+      - diff
 
-        - diff
+      - log
 
-        - log
+    - #### Git Rebase
 
-      - #### Git Rebase
+      - Why Rebase (vs merge)
 
-        - Why Rebase (vs merge)
+      - Interactive rebase options
 
-        - Interactive rebase options
+      - Rebase [ Udacity's [GitHub and Collaboration] (https://in.udacity.com/course/github-collaboration--ud456) Course by **Richard Kalehoff** ]
 
-        - Rebase [ Udacity's [GitHub and Collaboration] (https://in.udacity.com/course/github-collaboration--ud456) Course by **Richard Kalehoff** ]
+      - [Git team workflows: Merge or Rebase](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 
-        - [Git team workflows: Merge or Rebase](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+      - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-        - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+      - [How to rebase and update a pull request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
 
-        - [How to rebase and update a pull request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
+      - [Rebase and merge pull requests](https://github.com/blog/2243-rebase-and-merge-pull-requests)
 
-        - [Rebase and merge pull requests](https://github.com/blog/2243-rebase-and-merge-pull-requests)
+    - #### [Commit message style guides](https://chris.beams.io/posts/git-commit/)
 
-      - #### [Commit message style guides](https://chris.beams.io/posts/git-commit/)
+      - [Udacity Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
-        - [Udacity Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+    - #### [Atomic commits](https://www.freshconsulting.com/atomic-commits/)
 
-      - #### [Atomic commits](https://www.freshconsulting.com/atomic-commits/)
+  - ### Git Resources
 
-    - ### Git Resources
+    - #### [Git Cheat Sheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
 
-      - #### [Git Cheat Sheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
+    - #### [Getting Started With Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
-      - #### [Getting Started With Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+    - #### Basics - [Learn To Love Git](https://medium.com/designing-atlassian/learn-to-love-git-part-one-the-basics-90429f456ace)
 
-      - #### Basics - [Learn To Love Git](https://medium.com/designing-atlassian/learn-to-love-git-part-one-the-basics-90429f456ace)
+    - #### [Try Git](https://try.github.io/) tutorial
 
-      - #### [Try Git](https://try.github.io/) tutorial
+    - #### [gitignore files](https://help.github.com/articles/ignoring-files/)
 
-      - #### [gitignore files](https://help.github.com/articles/ignoring-files/)
+    - #### Understand branching and merge
 
-      - #### Understand branching and merge
+      - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
 
-        - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
+      - [Creating new branch and managing branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
-        - [Creating new branch and managing branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+      - [Git branch](https://learngitbranching.js.org/) tutorial
 
-        - [Git branch](https://learngitbranching.js.org/) tutorial
+    - #### [Github issues](https://guides.github.com/features/issues/) and [pull Requests](https://yangsu.github.io/pull-request-tutorial/)
 
-      - #### [Github issues](https://guides.github.com/features/issues/) and [pull Requests](https://yangsu.github.io/pull-request-tutorial/)
+    - #### [Git commands](https://medium.freecodecamp.org/git-cheat-sheet-and-best-practices-c6ce5321f52)
 
-      - #### [Git commands](https://medium.freecodecamp.org/git-cheat-sheet-and-best-practices-c6ce5321f52)
+    - #### MOOC Courses
 
-      - #### MOOC Courses
+      - Udacity's Version Control with Git [ [Link](https://in.udacity.com/course/version-control-with-git--ud123) ]
 
-        - Udacity's Version Control with Git [ [Link](https://in.udacity.com/course/version-control-with-git--ud123) ]
+      - Udacity's How to use Git and Github [ [Link](https://in.udacity.com/course/how-to-use-git-and-github--ud775) ]
 
-        - Udacity's How to use Git and Github [ [Link](https://in.udacity.com/course/how-to-use-git-and-github--ud775) ]
+    - [http://ohshitgit.com/](http://ohshitgit.com/)
 
-      - [http://ohshitgit.com/](http://ohshitgit.com/)
+  - #### Extra References
 
-    - #### Extra References
+    - [Awesome Git](https://github.com/dictcp/awesome-git) - A list of curated resources about git and associated technologies.
 
-      - [Awesome Git](https://github.com/dictcp/awesome-git) - A list of curated resources about git and associated technologies.
-
-      - [Pro Git](https://git-scm.com/book) - free Git book (CC BY-NC-SA 3.0) - A comprehensive reference on git and its internals.
+    - [Pro Git](https://git-scm.com/book) - free Git book (CC BY-NC-SA 3.0) - A comprehensive reference on git and its internals.
