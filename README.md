@@ -46,7 +46,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
   - ***Design Patterns*** by the Gang of Four (one of the best books for program architecture)
 
-  # Setting up environment ([details](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment))
+  # Setting up the Dev environment ([details](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment))
 
   
 
