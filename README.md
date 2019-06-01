@@ -52,7 +52,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
   - #### [Z Shell](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#z-shell)
 
-  - #### [Editor](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#editor)
+  - #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20environment#editor)
 
     - [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
 
@@ -64,7 +64,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
     - Node Version Manager
 
-  - #### [Package Managers](https://fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
+  - #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
 
     - [yarn](https://yarnpkg.com/lang/en/)
 
