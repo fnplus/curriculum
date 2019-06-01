@@ -70,7 +70,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
     - [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
-    - Homebrew (macOS)
+    - [Homebrew] (https://brew.sh/)
 
   - #### [Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
 
