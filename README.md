@@ -46,15 +46,22 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
   - ***Design Patterns*** by the Gang of Four (one of the best books for program architecture)
 
-  # Setting up environment ([details](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment))
+  # Setting up the Dev environment ([details](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment))
 
 - #### [Z Shell](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#z-shell)
 
 - #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#editor)
 
-  - [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
+<<<<<<< HEAD
 
-  - [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
+- [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
+===
+
+- #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20environment#editor)
+
+  > > > > > > > 9bd3b004ee01a7ede874f4ed73b5d8667faa9126
+
+- [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
 
 - #### [Terminal and Commands](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#terminal-and-commands)
 
@@ -64,16 +71,25 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
 - #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
 
-  - [yarn](https://yarnpkg.com/lang/en/)
+<<<<<<< HEAD
 
-  - [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
+- [yarn](https://yarnpkg.com/lang/en/)
+===
 
-  - Homebrew (macOS)
+- #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
 
-- #### [Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
+  > > > > > > > 9bd3b004ee01a7ede874f4ed73b5d8667faa9126
+
+- [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
+
+- Homebrew (macOS)
+
+- ####[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
+===
+
+    - [Homebrew](https://brew.sh/)
 
 - # Version Control
-
   - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 
     - What are the advantages of Distributed over centralized.
