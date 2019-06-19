@@ -120,8 +120,7 @@
 
   - [npm](https://docs.npmjs.com/getting-started/what-is-npm)(along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
-  - #### [Homebrew (macOS)
-
+  - #### Homebrew (macOS)
     - Homebrew is the go-to package manager for MacOS. It makes it super easy to install and update all of your different development tools.
 
     - [Install Homebrew by following the instructions here.](https://brew.sh/)
@@ -133,12 +132,6 @@
       - [Here is how you install it with Homebrew.](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-with-homebrew)
 
           brew install mongodb
-
-      Another super useful homebrew package is hub by github. It allows you to create pull requests from the command line using:
-
-          git pull-request
-
-      Download and install is via homebrew [here](https://hub.github.com/).
 
 - ## Environment Variables and uses
 
