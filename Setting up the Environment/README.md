@@ -131,7 +131,7 @@
 
       - [Here is how you install it with Homebrew.](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-with-homebrew)
 
-          brew install mongodb
+          `brew install mongodb`
 
 - ## Environment Variables and uses
 
