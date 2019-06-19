@@ -52,16 +52,9 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
 - #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#editor)
 
-<<<<<<< HEAD
+- #### [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
 
-- [VSCode](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#vscode)
-===
-
-- #### [Editor](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20environment#editor)
-
-  > > > > > > > 9bd3b004ee01a7ede874f4ed73b5d8667faa9126
-
-- [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
+- #### [Basic Vim](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
 
 - #### [Terminal and Commands](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#terminal-and-commands)
 
@@ -71,18 +64,11 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
 - #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
 
-<<<<<<< HEAD
+  - [yarn](https://yarnpkg.com/lang/en/)
 
-- [yarn](https://yarnpkg.com/lang/en/)
-===
+  - [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx- an-npm-package-runner-55f7d4bd282b))
 
-- #### [Package Managers](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#package-managers)
-
-  > > > > > > > 9bd3b004ee01a7ede874f4ed73b5d8667faa9126
-
-- [npm](https://docs.npmjs.com/getting-started/what-is-npm) (along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
-
-- Homebrew (macOS)
+  - Homebrew (macOS)
 
 - ####[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)
 ===
