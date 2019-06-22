@@ -1,24 +1,42 @@
-# Setting up environment
+# Clean Code
 
-## Table of Contents
+It is really a very simple concept but one that sparked more debates and controversies than anything else in Computer Science. If you have ever thought about Tabs versus Spaces, snake_case versus CamelCase, verbNoun variable nomenclature or nounVerb, using is with booleans, or right level of abstraction then you know what it means. However, it is just the beginning. It's there in mathematics too. Mathematicians G.H Hardy and Betrand Russell use the term `elegance` and `rigour` for mathematical beauty. The term itself `Clean Code` is sufficiently descriptive and intuitively sensible, yet to put it into practice is as hard as composing a sonata, writing an opus, sculpting David and painting [The Last Supper](https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo_da_Vinci)). So if you are new to this concept, begin with the following links to get a gist of it. You'll get an idea about the same and form an opinion.
 
-- [Z Shell](#z-shell)
+In short Clean Code is -
 
-- [Editor](#editor)
+- Easy to understand.
 
-- [VSCode](#vscode)
+- Easy to modify.
 
-- [Basic Vim](#basic-vim-for-git-rebase-and-in-terminal-editing)
+- Easy to test.
 
-- [Terminal and Commands](#terminal-and-commands)
+- Works correctly
 
-- []Version Managers](#version-managers)
+Also, **if you always remember that code is written to read (by humans)** and not *just* to be executed, you'll mostly be on the right track.
 
-- [Package Managers](#package-managers)
+- #### Articles
 
----
+  - [What is Clean Code and why should you care?](http://cvuorinen.net/2014/04/what-is-clean-code-and-why-should-you-care/)
 
-- ### Z Shell
+  - [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9)
+
+  - [Clean code because it’s fun](https://medium.com/@adamzerner/clean-code-because-its-fun-71e45662a944)
+
+  - [Keeping your code clean](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
+
+- #### Books
+
+  - ***Structure and Interpretation of Computer Programs*** by Hal Abelson, Gerald Jay Sussman
+
+  - ***Clean Code***, ***Agile Software Development*** and ***Clean Architecture*** by R C Martin.
+
+  - ***Code Complete*** (2nd Edition) by Steve McConnell
+
+  - ***Programming Pearls*** by Jon Bentley
+
+  - ***Design Patterns*** by the Gang of Four (one of the best books for program architecture)
+
+- ## Z Shell
 
   - Z Shell (aka zsh) is a drop-in replacement for your default bash shell. It does everything bash can do and more. Some nice improvements over bash are improved autocomplete, syntax highlighting and plugins via Oh My Zsh.
 
@@ -34,9 +52,9 @@
 
     - jump
 
-- ### Editor
+- ## Editor
 
-  - #### VSCode
+  - ### VSCode
 
     > A software engineer's text editor of choice is somewhat just a personal preference. There isn't necessarily one right answer. However, to standardize our training and make it easier to collaborate, everyone is required to use VSCode.
 
@@ -114,7 +132,7 @@
 
     - [Here's](https://vim.rtorr.com/) a small cheat sheet for quick references
 
-- ### Terminal and Commands
+- ## Terminal and Commands
 
   - iTerm2 with Oh My ZSH with extensions and a good theme (macOS)
 
@@ -126,15 +144,13 @@
 
   - ps
 
-- ### Version Managers
+- ## Version Managers
 
-  - #### Node Version Manager
+  - ### Node Version Manager
 
     Node Version Manager (nvm for short) is used for managing the different versions of node and npm installed on your machine. It allows you to easily switch between versions so that you can always make sure you are using the same version as everyone else for every project. By keeping the version consistent across your local development environment, your teammates' development environment and the servers, you get consistent results and don't run into version mismatch related bugs.[Install nvm by following the instructions here.](https://github.com/creationix/nvm)
 
-- ### 
-
-  ### Package Managers
+- ## Package Managers
 
   - [yarn](https://yarnpkg.com/lang/en/)
 
@@ -154,7 +170,7 @@
 
           `brew install mongodb`
 
-- ### Environment Variables and uses
+- ## Environment Variables and uses
 
   - [env](https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a)
 
