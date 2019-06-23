@@ -4,33 +4,38 @@
 
 ### Frontend
 
-- #### **[HTML](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[HTML](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/HTML)**
 
-- #### **[CSS](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[CSS](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/CSS)**
 
-- #### **[JavaScript](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[JavaScript](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/JavaScript)**
 
-- #### **[React](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[React](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/React)**
 
-- #### **[Accessibility](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Accessibility](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Acceessibility)**
 
-- #### **[Network, Protocols, Browsers](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Network, Protocols, Browsers](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Network%20Protocols%20Browsers)**
 
 ### Backend
 
-- #### **[Node JS](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Node JS](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Node%20JS)**
 
-- #### **[Full Stack](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Databases (Mongo)](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Databases)**
 
-- #### **[Databases (Mongo)](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Express](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Express)**
 
-- #### **[Express](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[Auth](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Auth)**
 
-- #### **[Auth](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+- #### **[APIs (REST, GraphQL)](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/APIs)**
 
-- #### **[APIs (REST, GraphQL)](https://github.com/fnplus/curriculum/tree/master/Web Dev/HTML#HTML)**
+
+### Full Stack
+
+- #### **[Full Stack Resources](https://github.com/fnplus/curriculum/tree/master/Web%20Dev/Full%20Stack)**
 
 ### Testing
+
+- #### **[Learn Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
 
 - #### Jest, Enzyme
   - Unit Testing
@@ -43,9 +48,9 @@
 
   - [Heroku](https://www.heroku.com/)
 
-  - AWS Compute Engine
+  - [AWS, Google Compute Engine](https://www.qwiklabs.com/)
 
-  - Serverless
+  - [Serverless](https://www.qwiklabs.com/)
 
 - #### Production
 
