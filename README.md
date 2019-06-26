@@ -10,21 +10,12 @@ Here, you have access to resources which will help you understand the general pr
 
 # Table of Contents
 
-- #### **[Clean Code](https://github.com/fnplus/curriculum/tree/master/Clean%2Code#Clean Code)**
+- ### **[Clean Code](https://github.com/fnplus/curriculum/tree/master/Clean%20Code)**
 
-  
+- ### **[Setting up the Dev environment](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment)**
 
-- #### **[Setting up the Dev environment](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#setting-up-environment)**
+- ### **[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)**
 
-  
+- ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
-- #### **[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)**
-
-  
-
-- #### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Clean%20Code#Clean Code)**
-
-  
-
-- #### [Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)
-
+- ### [Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)
