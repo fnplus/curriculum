@@ -18,10 +18,13 @@ Here, you have access to resources which will help you understand the general pr
 
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
-- ### **[Languages (Python)](https://github.com/fnplus/curriculum/tree/master/Python)**
+- ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
+  - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
 
 - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
 
 - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
 
 - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
+
+- ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
