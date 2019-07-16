@@ -10,6 +10,12 @@
 
 - [Machine learning with scikit learn](https://www.dataschool.io/machine-learning-with-scikit-learn/)
 
+- [Introduction to AI/ML - Elements of AI](https://course.elementsofai.com/)
+
+- [A Gentle Introduction to Machine Learning Using SciKit-Learn - Udemy](https://www.udemy.com/a-gentle-introduction-to-machine-learning-using-scikit-learn/)
+
+- [Machine learning with python - Cognitive Class](https://cognitiveclass.ai/courses/machine-learning-with-python/)
+
 - [Python for datascience and machine learning bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
 #### 2 - Intermediate
@@ -38,6 +44,7 @@
 - https://github.com/awesomedata/awesome-public-datasets
 - https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 - https://www.forbes.com/sites/bernardmarr/2018/02/26/big-data-and-ai-30-amazing-and-free-public-data-sources-for-2018
+- https://www.nist.gov/node/1298471/emnist-dataset
 
 ### Academic Research Journals
 
