@@ -10,6 +10,12 @@
 
 - [Machine learning with scikit learn](https://www.dataschool.io/machine-learning-with-scikit-learn/)
 
+- [Introduction to AI/ML - Elements of AI](https://course.elementsofai.com/)
+
+- [A Gentle Introduction to Machine Learning Using SciKit-Learn - Udemy](https://www.udemy.com/a-gentle-introduction-to-machine-learning-using-scikit-learn/)
+
+- [Machine learning with python - Cognitive Class](https://cognitiveclass.ai/courses/machine-learning-with-python/)
+
 - [Python for datascience and machine learning bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
 #### 2 - Intermediate
