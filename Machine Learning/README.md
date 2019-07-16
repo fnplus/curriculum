@@ -44,6 +44,7 @@
 - https://github.com/awesomedata/awesome-public-datasets
 - https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 - https://www.forbes.com/sites/bernardmarr/2018/02/26/big-data-and-ai-30-amazing-and-free-public-data-sources-for-2018
+- https://www.nist.gov/node/1298471/emnist-dataset
 
 ### Academic Research Journals
 
