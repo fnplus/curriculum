@@ -36,6 +36,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 # Table of Contents
 
+- ### **[Core CS](https://github.com/fnplus/curriculum/tree/master/Core%20CS)**
+
 - ### **[Clean Code](https://github.com/fnplus/curriculum/tree/master/Clean%20Code)**
 
 - ### **[Setting up the Dev environment](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment)**
@@ -43,8 +45,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - ### **[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)**
 
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
-
-- ### **[Core CS](https://github.com/fnplus/curriculum/tree/master/Core%20CS)**
 
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
 
