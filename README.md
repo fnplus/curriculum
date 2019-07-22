@@ -44,11 +44,17 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
+- ### **[Core CS](https://github.com/fnplus/curriculum/tree/master/Core%20CS)**
+
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
 
   - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
 
 - ### Domains
+  - ### **[BioInformatics](https://github.com/fnplus/curriculum/tree/master/Bio%20Informatics)**
+
+  - ### **[Data Science](https://github.com/fnplus/curriculum/tree/master/Data%20Science)**
+  
   - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
   
   - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
