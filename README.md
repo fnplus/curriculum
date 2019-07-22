@@ -31,7 +31,7 @@ The first one is a motivational video that shows a guy that went through the "MI
 The second link is a MOOC that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. These are **fundamental abilities** to succeed in our journey.
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-
+  - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://amzn.to/2Lz8j6d)
 
 
 # Table of Contents
@@ -48,15 +48,14 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
   - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
 
-- ### Domains **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
-
-- ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
-
-- ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
-
-- ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
-
+- ### Domains
+  - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
   
+  - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
+  
+  - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
+  
+  - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
 
 # Next Goals
 
