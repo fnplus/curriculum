@@ -57,6 +57,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
   
   - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
 
-# Next Goals
+# Support Us
 
-- [Add our Company page at Linkedin](https://www.linkedin.com/company/fnplus).
+- [Follow our Company page at Linkedin](https://www.linkedin.com/company/fnplus).
