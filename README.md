@@ -59,4 +59,4 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 # Next Goals
 
-- [Add our Community page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
+- [Add our Company page at Linkedin](https://www.linkedin.com/company/fnplus).
