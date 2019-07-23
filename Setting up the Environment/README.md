@@ -12,7 +12,7 @@
 
 - [Terminal and Commands](#terminal-and-commands)
 
-- []Version Managers](#version-managers)
+- [Version Managers](#version-managers)
 
 - [Package Managers](#package-managers)
 
