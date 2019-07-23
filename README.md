@@ -1,6 +1,6 @@
 # Curriculum
 
-A guide to get started with your learning journey.
+A guide to get started with your learning journey. [![HitCount](http://hits.dwyl.io/fnplus/curriculum.svg)](http://hits.dwyl.io/fnplus/curriculum)
 
 # Introduction
 
