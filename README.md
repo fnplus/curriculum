@@ -56,6 +56,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
   - ### **[Data Science](https://github.com/fnplus/curriculum/tree/master/Data%20Science)**
   
   - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
+    - ### **[Deep Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning/Deep%20Learning)**
   
   - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
   
