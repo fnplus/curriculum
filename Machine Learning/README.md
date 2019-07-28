@@ -4,6 +4,8 @@
 
 #### 1 - Basic
 
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
+
 - [Kaggle Learn](https://www.kaggle.com/learn)
 
 - [Machine learning with scikit learn](https://www.dataschool.io/machine-learning-with-scikit-learn/)
