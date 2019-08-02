@@ -385,12 +385,6 @@ whether or not this makes sense depends on the course, the project, and whether 
 In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
 
-Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
-- HTML: `<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
-
 ### Evaluation
 
 Upon completing your final project, submit your project's information to [PROJECTS](PROJECTS.md)
@@ -451,7 +445,7 @@ These aren't the only specializations you can choose. Check the following websit
 
 # References
 
-- [OSSU]([https://github.com/ossu](https://github.com/ossu)
+- [OSSU](https://github.com/ossu)
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org)
