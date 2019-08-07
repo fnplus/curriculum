@@ -33,7 +33,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
   - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://amzn.to/2Lz8j6d)
 
-
 # Table of Contents
 
 - ### **[Core CS](https://github.com/fnplus/curriculum/tree/master/Core%20CS)**
@@ -47,18 +46,24 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
-
+  
   - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
 
 - ### Domains
+  
   - ### **[BioInformatics](https://github.com/fnplus/curriculum/tree/master/Bio%20Informatics)**
-
+  
   - ### **[Data Science](https://github.com/fnplus/curriculum/tree/master/Data%20Science)**
   
   - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
+    
     - ### **[Deep Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning/Deep%20Learning)**
   
   - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
+    
+    - ## **[Android](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Android)**
+    
+    - ## **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
   
   - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
   
