@@ -61,9 +61,9 @@ The second link is a MOOC that will teach you learning techniques used by expert
   
   - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
     
-    - ## **[Android](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Android)**
+    - ### **[Android](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Android)**
     
-    - ## **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
+    - ### **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
   
   - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
   
