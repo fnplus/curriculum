@@ -48,6 +48,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
   
   - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
+  
+- ### **[YouTube Channles to Follow](https://github.com/fnplus/curriculum/tree/master/YouTube)**
 
 - ### Domains
   
@@ -68,6 +70,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
   - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
   
   - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
+
+- ### **[Engineering Management](https://github.com/fnplus/curriculum/tree/master/Engineering%20Management)**
 
 # Support Us
 
