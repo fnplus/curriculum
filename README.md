@@ -8,6 +8,11 @@ These are the essential skills that each individual starting with FnPlus Bootcam
 
 Here, you have access to resources which will help you understand the general programming concepts as well as the specifics of various technologies in depth.
 
+The repository is arranged as follows:
+> **Domain** / **Sub domain** / **Resource file**
+
+Each folder has a README.md file containing all information about the folder, it's contents and resource links.
+
  **Courses must**:
 
 - Be open for enrollment
@@ -73,6 +78,13 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - ### **[Engineering Management](https://github.com/fnplus/curriculum/tree/master/Engineering%20Management)**
 
+
+# Contributions
+This repository is open for contributions. Clone this repository and keep adding your resources and references.
+
+Make sure that you follow the proper schema of the repository. Any pushes with irrelevant resources in any domain will be discarded. Also make sure you don't push any resources that already present in the repository.
+
 # Support Us
 
-- [Follow our Company page at Linkedin](https://www.linkedin.com/company/fnplus).
+- [Follow our Instagram page](https://instagram.com/fnplusofficial)
+- [Follow our Company page at LinkedIn](https://www.linkedin.com/company/fnplus).
