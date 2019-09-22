@@ -35,6 +35,9 @@
 
 ### Other Resources
 
+#### **Crash courses**
+- [Learn Machine Learning in 3 months:](https://github.com/amannirala13/Learn_Machine_Learning_in_3_Months) *(Maths for ML, Deep Learning, Data Science)*
+
 #### Datasets
 
 - http://academictorrents.com/
