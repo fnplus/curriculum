@@ -1,5 +1,7 @@
 # Version Control
 
+## The Curriculum
+
 - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 
   - What are the advantages of Distributed over centralized.
@@ -142,7 +144,7 @@
 
   - #### [Atomic commits](https://www.freshconsulting.com/atomic-commits/)
 
-- ### Git Resources
+## Git Resources
 
   - [Git Cheat Sheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
 
