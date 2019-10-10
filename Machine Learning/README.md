@@ -4,6 +4,8 @@
 
 #### 1 - Basic
 
+- [Mathematics for Beginners](https://github.com/llSourcell/Mathematics_for_Beginners)
+
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
 - [Kaggle Learn](https://www.kaggle.com/learn)
