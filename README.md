@@ -66,6 +66,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
     
     - ### **[Deep Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning/Deep%20Learning)**
   
+  - ### **[Game Development](https://github.com/fnplus/game-programmer)**
+  
   - ### **[Mobile Development](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev)**
     
     - ### **[Android](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Android)**
