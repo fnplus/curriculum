@@ -91,5 +91,6 @@ Make sure that you follow the proper schema of the repository. Any pushes with i
 
 # Support Us
 
+- [Follow our Twitter page](https://twitter.com/fnplusofficial)
 - [Follow our Instagram page](https://instagram.com/fnplusofficial)
 - [Follow our Company page at LinkedIn](https://www.linkedin.com/company/fnplus).
