@@ -4,6 +4,8 @@
 
 #### 1 - Basic
 
+- [Mathematics for Beginners](https://github.com/llSourcell/Mathematics_for_Beginners)
+
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
 - [Kaggle Learn](https://www.kaggle.com/learn)
@@ -34,6 +36,9 @@
 - [Intro to TensorFlow for Deep Learning byTensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Other Resources
+
+#### **Crash courses**
+- [Learn Machine Learning in 3 months:](https://github.com/amannirala13/Learn_Machine_Learning_in_3_Months) *(Maths for ML, Deep Learning, Data Science)*
 
 #### Datasets
 

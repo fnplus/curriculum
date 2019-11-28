@@ -28,7 +28,7 @@ You must focus on your **habit**, and **forget** about goals. Try to invest 1 ~ 
 
 ### Project Based
 
-Here in **OSS University**, you do **not** need to take exams, because we are focused on **real projects**!
+Here in **FnPlus**, you do **not** need to take exams, because we are focused on **real projects**!
 
 In order to show for everyone that you **successfully** finished a course, you should create a **real project**.
 
@@ -190,3 +190,6 @@ Complete Kaggle's Getting Started and Playground Competitions
 
 After finishing the courses above, start your specializations on the topics that you have more interest.
 You can view a list of available specializations [here](https://github.com/open-source-society/data-science/blob/master/extras/specializations.md).
+
+### Credits
+- OSS University

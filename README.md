@@ -8,6 +8,12 @@ These are the essential skills that each individual starting with FnPlus Bootcam
 
 Here, you have access to resources which will help you understand the general programming concepts as well as the specifics of various technologies in depth.
 
+The repository is arranged as follows:
+
+> **Domain** / **Sub domain** / **Resource file**
+
+Each folder has a README.md file containing all information about the folder, it's contents and resource links.
+
  **Courses must**:
 
 - Be open for enrollment
@@ -18,7 +24,7 @@ Here, you have access to resources which will help you understand the general pr
 
 - Be of generally high quality in teaching materials and pedagogical principles
 
-When no course meets the above criteria, the coursework is supplemented with a book.When there are courses or books that don't fit into the curriculum but are otherwise of high quality,they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+When there are courses or books that don't fit into the curriculum but are otherwise of high quality,they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 ### Motivation & Preparation
 
@@ -49,11 +55,17 @@ The second link is a MOOC that will teach you learning techniques used by expert
   
   - #### **[Python](https://github.com/fnplus/curriculum/tree/master/Languages/Python)**
 
-- ### Domains
+- ### **[YouTube Channles to Follow](https://github.com/fnplus/curriculum/tree/master/YouTube)**
+
+- ## Domains
   
   - ### **[BioInformatics](https://github.com/fnplus/curriculum/tree/master/Bio%20Informatics)**
   
   - ### **[Data Science](https://github.com/fnplus/curriculum/tree/master/Data%20Science)**
+  
+  - ### **[Engineering Management](https://github.com/fnplus/curriculum/tree/master/Engineering%20Management)**
+  
+  - ### **[Game Development](https://github.com/fnplus/game-programmer)**
   
   - ### **[Machine Learning](https://github.com/fnplus/curriculum/tree/master/Machine%20Learning)**
     
@@ -65,10 +77,20 @@ The second link is a MOOC that will teach you learning techniques used by expert
     
     - ### **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
   
-  - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
+  - ### [Security](https://github.com/fnplus/curriculum/tree/master/Security/Security)
   
   - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
+  
+  - ### **[Web Development](https://github.com/fnplus/curriculum/tree/master/Web%20Dev#web-dev)**
+
+# Contributions
+
+This repository is open for contributions. Clone this repository and keep adding your resources and references.
+
+Make sure that you follow the proper schema of the repository. Any pushes with irrelevant resources in any domain will be discarded. Also make sure you don't push any resources that already present in the repository.
 
 # Support Us
 
-- [Follow our Company page at Linkedin](https://www.linkedin.com/company/fnplus).
+- [Follow our Twitter page](https://twitter.com/fnplusofficial)
+- [Follow our Instagram page](https://instagram.com/fnplusofficial)
+- [Follow our Company page at LinkedIn](https://www.linkedin.com/company/fnplus).
