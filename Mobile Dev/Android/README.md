@@ -37,9 +37,10 @@
 ## Testing
 - [Espresso](https://developer.android.com/training/testing/espresso)
 
-
-
 ## Advanced
 
 ## Firebase
 
+## Interview Preparation
+- [Android Interview Questions Cheat Sheet — Part I](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)
+- [Android Interview Questions Cheat Sheet — Part II](https://android.jlelse.eu/android-interview-questions-cheat-sheet-part-ii-bea0633f0da7)
