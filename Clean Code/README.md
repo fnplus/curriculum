@@ -1,6 +1,6 @@
 # Clean Code
 
-If you have ever thought about Tabs versus Spaces, snake_case versus CamelCase, verbNoun variable nomenclature or nounVerb, using is with booleans, or right level of abstraction then you know what it means. However, it is just the beginning. It's there in mathematics too. Mathematicians G.H Hardy and Betrand Russell use the term `elegance` and `rigour` for mathematical beauty. The term itself `Clean Code` is sufficiently descriptive and intuitively sensible, yet to put it into practice is as hard as composing a sonata, writing an opus, sculpting David and painting [The Last Supper](https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo_da_Vinci)). So if you are new to this concept, begin with the following links to get a gist of it. You'll get an idea about the same and form an opinion.
+If you have ever thought about Tabs versus Spaces, snake_case versus CamelCase, verbNoun variable nomenclature or nounVerb, using is with booleans, or right level of abstraction then you know what it means. However, it is just the beginning. If you are new to this concept, begin with the following links to get a gist of it. You'll get an idea about the same and form an opinion.
 
 In short Clean Code is -
 
