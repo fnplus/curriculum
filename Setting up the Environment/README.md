@@ -6,8 +6,6 @@
 
 - [Editor](#editor)
 
-- [VSCode](#vscode)
-
 - [Basic Vim](#basic-vim-for-git-rebase-and-in-terminal-editing)
 
 - [Terminal and Commands](#terminal-and-commands)
@@ -145,14 +143,6 @@
     - Homebrew is the go-to package manager for MacOS. It makes it super easy to install and update all of your different development tools.
 
     - [Install Homebrew by following the instructions here.](https://brew.sh/)
-
-    - To see how awesome Homebrew is, go ahead and install MongoDB on your system.
-
-      - [Here are the instructions to do it manually.](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-manually)
-
-      - [Here is how you install it with Homebrew.](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-with-homebrew)
-
-          `brew install mongodb`
 
 - ### Environment Variables and uses
 
