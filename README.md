@@ -47,8 +47,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - ### **[Setting up the Dev environment](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment)**
 
-- ### **[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)**
-
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
