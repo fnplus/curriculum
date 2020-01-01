@@ -75,7 +75,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
     
     - ### **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
   
-  - ### [Security](https://github.com/fnplus/curriculum/tree/master/Security/Security)
+  - ### [Security](https://github.com/fnplus/curriculum/tree/master/Security)
   
   - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
   
