@@ -4,17 +4,17 @@ A step by step guide to learn Cyber Security for absolute beginners or amateur b
 
 Cyber Security requires a deeper understanding in some of these areas before you actually start learning.
 
-### Pre-requisites:
+## Pre-requisites:
 1. Basic Programming knowledge
 2. Web fundamentals
 3. Linux internals
 4. Windows internals
 
-###### [Explore Job roles in Security](https://www.cyberdegrees.org/jobs/)
+### [Explore Job roles in Security](https://www.cyberdegrees.org/jobs/)
 
-###### [Grow your career in Cyber Security](https://medium.com/fnplus/grow-your-career-in-cybersecurity-77f8788ddfe)
+### [Grow your career in Cyber Security](https://medium.com/fnplus/grow-your-career-in-cybersecurity-77f8788ddfe)
 
-###### Recommended languages to know/learn
+### Recommended languages to know/learn
 
 * [C](https://www.w3schools.com/cs/default.asp)/[C++](https://www.w3schools.com/cpp/default.asp)
 * [PHP](https://www.w3schools.com/php/default.asp)
@@ -23,7 +23,7 @@ Cyber Security requires a deeper understanding in some of these areas before you
 * [JavaScript](https://www.w3schools.com/js/default.asp)
 * [Shell](https://www.shellscript.sh/)
 
-### Basics of Cyber Security
+## Basics of Cyber Security
 
 - [What is Cyber Security](https://usa.kaspersky.com/resource-center/definitions/what-is-cyber-security)
 - [Information Security Basics](https://developer.mozilla.org/en-US/docs/Web/Security/Information_Security_Basics)
@@ -33,27 +33,28 @@ Cyber Security requires a deeper understanding in some of these areas before you
 - [Types of attackers](https://www.csoonline.com/article/3177438/10-types-of-hackers-and-how-theyll-harm-you.html)
 - [Threatsaurus by Sophos](https://www.doc.ic.ac.uk/~maffeis/331/Threatsaurus.pdf)
 
-##### Learning Labs
+### Learning Labs
 - [Immersive Labs](https://community.immersivelabs.online/)
+- [Hack This Site](https://www.hackthissite.org/)
 
-##### Blogs and Profiles
+### Blogs and Profiles
 - [GB Hackers](https://gbhackers.com/)
 - [KrebsOnSecurity](https://krebsonsecurity.com/)
 - [DigitalGuardian](https://digitalguardian.com/)
 - [TroyHunt](https://www.troyhunt.com/)
 - [CyberDost by Ministry of Home Affairs](https://twitter.com/CyberDost)
 
-##### Network Basics
+### Network Basics
 - [OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 - [Internet Protocols](https://howdoesinternetwork.com/protocols)
 
-##### Web Concepts
+### Web Concepts
 - [Web Concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
 
 
-### Intermediate level
+## Intermediate level
 
-#### Application Security
+### Application Security
 - [AppSec guide](https://resources.infosecinstitute.com/application-security-beginners-step-step-approach/)
 - [Learn and Practice](https://www.hacker101.com/)
 - [About OWASP project](https://www.owasp.org)
@@ -65,31 +66,29 @@ Cyber Security requires a deeper understanding in some of these areas before you
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Brutelogic](https://brutelogic.com.br/blog/)
 
-##### Practice Labs
+### Practice Labs
 - [Pentester Lab](https://pentesterlab.com/exercises?dir=desc&only=free)
 
-##### Challenges
+### Challenges
 - [CTFtime](https://ctftime.org/)
 
+## Advanced level
 
-### Advanced level
-
-#### Application Security
+### Application Security
 - [Phases of Hacking](https://null-byte.wonderhowto.com/how-to/five-phases-hacking-0167990/)
 - [Vulnerability Assessment Guidelines](https://securityintelligence.com/a-step-by-step-guide-to-vulnerability-assessment/)
 - [Penetration Testing Guidelines](https://www.greycampus.com/blog/information-security/penetration-testing-step-by-step-guide-stages-methods-and-application)
 - [Web Pentesting Phases](https://medium.com/@sangeeta.igit/resources-for-web-application-penetration-testing-95f64bb8333f)
 
-##### Practice Labs
+### Practice Labs
 - [Hack the box](https://www.hackthebox.eu/)
 - [Hack this Site](https://www.hackthissite.org/)
 
-##### Hone your skills
+### Hone your skills
 - [HackerOne](https://www.hackerone.com/)
 - [BugCrowd](https://www.bugcrowd.com/)
 
-
-### Additional Resources
+## Additional Resources
 - [MindMap](https://www.amanhardikar.com/mindmaps/Practice.html)
 - [Books & Case Studies](https://drive.google.com/drive/u/0/folders/157TWMfgN40kpOE6S2Mm67ct1extxyEUP)
 - [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
