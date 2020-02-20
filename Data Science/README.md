@@ -60,8 +60,6 @@ Python and R are heavily used in Data Science community and our courses teach yo
 
 The **important** thing for each course is to **internalize** the **core concepts** and to be able to use them with whatever tool (programming language) that you wish.
 
-
-
 ## Curriculum
 
 - [Linear Algebra](#linear-algebra)
@@ -192,4 +190,5 @@ After finishing the courses above, start your specializations on the topics that
 You can view a list of available specializations [here](https://github.com/open-source-society/data-science/blob/master/extras/specializations.md).
 
 ### Credits
+
 - OSS University
