@@ -47,8 +47,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - ### **[Setting up the Dev environment](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment)**
 
-- ### **[Environment Variables and uses](https://github.com/fnplus/curriculum/tree/master/Setting%20up%20the%20Environment#environment-variables-and-uses)**
-
 - ### **[Version Control](https://github.com/fnplus/curriculum/tree/master/Version%20Control)**
 
 - ### **[Languages](https://github.com/fnplus/curriculum/tree/master/Languages)**
@@ -77,7 +75,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
     
     - ### **[Flutter](https://github.com/fnplus/curriculum/tree/master/Mobile%20Dev/Flutter)**
   
-  - ### [Security](https://github.com/fnplus/curriculum/tree/master/Security/Security)
+  - ### [Security](https://github.com/fnplus/curriculum/tree/master/Security)
   
   - ### **[Testing](https://github.com/fnplus/curriculum/tree/master/Testing)**
   
@@ -91,5 +89,6 @@ Make sure that you follow the proper schema of the repository. Any pushes with i
 
 # Support Us
 
+- [Follow our Twitter page](https://twitter.com/fnplusofficial)
 - [Follow our Instagram page](https://instagram.com/fnplusofficial)
 - [Follow our Company page at LinkedIn](https://www.linkedin.com/company/fnplus).

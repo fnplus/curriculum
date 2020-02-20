@@ -1,5 +1,41 @@
 # Version Control
 
+## Git Resources
+
+  - [Git Cheat Sheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
+
+  - Basics - [Learn To Love Git](https://medium.com/designing-atlassian/learn-to-love-git-part-one-the-basics-90429f456ace)
+
+  - [All-in-one Guide](https://github.com/firstcontributions/first-contributions/blob/master/additional-material/git_workflow_scenarios/additional-material.md)
+
+  - [Try Git](https://try.github.io/) tutorial
+
+  - [gitignore files](https://help.github.com/articles/ignoring-files/)
+
+  - Understand branching and merge
+
+    - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
+
+    - [Creating new branch and managing branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+
+    - [Git branch](https://learngitbranching.js.org/) tutorial
+
+  - [Github issues](https://guides.github.com/features/issues/) and [pull Requests](https://yangsu.github.io/pull-request-tutorial/)
+
+  - #### MOOC Courses
+
+    - Udacity's Version Control with Git [ [Link](https://in.udacity.com/course/version-control-with-git--ud123) ]
+
+    - Udacity's How to use Git and Github [ [Link](https://in.udacity.com/course/how-to-use-git-and-github--ud775) ]
+
+  - [http://ohshitgit.com/](http://ohshitgit.com/)
+
+- #### Extra References
+
+  - [Awesome Git](https://github.com/dictcp/awesome-git) - A list of curated resources about git and associated technologies.
+
+  - [Pro Git](https://git-scm.com/book) - free Git book (CC BY-NC-SA 3.0) - A comprehensive reference on git and its internals.
+
 ## The Curriculum
 
 - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
@@ -143,39 +179,3 @@
     - [Udacity Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
   - #### [Atomic commits](https://www.freshconsulting.com/atomic-commits/)
-
-## Git Resources
-
-  - [Git Cheat Sheet](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf)
-
-  - Basics - [Learn To Love Git](https://medium.com/designing-atlassian/learn-to-love-git-part-one-the-basics-90429f456ace)
-
-  - [All-in-one Guide](https://github.com/firstcontributions/first-contributions/blob/master/additional-material/git_workflow_scenarios/additional-material.md)
-
-  - [Try Git](https://try.github.io/) tutorial
-
-  - [gitignore files](https://help.github.com/articles/ignoring-files/)
-
-  - Understand branching and merge
-
-    - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
-
-    - [Creating new branch and managing branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
-
-    - [Git branch](https://learngitbranching.js.org/) tutorial
-
-  - [Github issues](https://guides.github.com/features/issues/) and [pull Requests](https://yangsu.github.io/pull-request-tutorial/)
-
-  - #### MOOC Courses
-
-    - Udacity's Version Control with Git [ [Link](https://in.udacity.com/course/version-control-with-git--ud123) ]
-
-    - Udacity's How to use Git and Github [ [Link](https://in.udacity.com/course/how-to-use-git-and-github--ud775) ]
-
-  - [http://ohshitgit.com/](http://ohshitgit.com/)
-
-- #### Extra References
-
-  - [Awesome Git](https://github.com/dictcp/awesome-git) - A list of curated resources about git and associated technologies.
-
-  - [Pro Git](https://git-scm.com/book) - free Git book (CC BY-NC-SA 3.0) - A comprehensive reference on git and its internals.
